@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+
+
+
+
+
+# Secret information
+.env 
+
+
+
+
+.qodo
+service-account.json
